@@ -155,7 +155,7 @@ class ExamTest(unittest.TestCase, StdIoHook):
 
          pass
 
-import sys
+ import sys
 
 class ExamTest(unittest.TestCase, StdIoHook):
 
